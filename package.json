@@ -1,0 +1,39 @@
+{
+  "name": "esm-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.9.7",
+    "@material-ui/icons": "4.9.1",
+    "antd": "3.26.13",
+    "apexcharts": "^3.18.1",
+    "axios": "0.19.2",
+    "draft-js": "0.11.4",
+    "jsonwebtoken": "8.5.1",
+    "less": "3.11.1",
+    "less-loader": "5.0.0",
+    "react": "16.13.1",
+    "react-apexcharts": "^1.3.7",
+    "react-dom": "16.13.1",
+    "react-infinite-scroller": "1.2.4",
+    "react-router-dom": "5.1.2",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
